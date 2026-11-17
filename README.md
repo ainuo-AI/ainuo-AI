@@ -26,17 +26,3 @@ A campus lost-and-found course project with item publishing, search, matching no
 
 A learning project for exploring fund data, comparing historical performance, and visualizing investment simulations. Built with **Flask and ECharts**.  
 基金信息查询与可视化学习项目。
-
-## Open-source contributions
-
-A few fixes merged upstream:
-
-| Project | Contribution |
-| :--- | :--- |
-| **[pypdf](https://github.com/py-pdf/pypdf)** | [Reject zero-step page slices consistently at construction.](https://github.com/py-pdf/pypdf/pull/4404) |
-| **[IMAPClient](https://github.com/mjs/imapclient)** | [Fix pickle round-trips for fetched timestamps with fixed UTC offsets.](https://github.com/mjs/imapclient/pull/677) |
-| **[python-utils](https://github.com/wolph/python-utils)** | [Handle naive datetimes outside the platform's supported timestamp range.](https://github.com/wolph/python-utils/pull/78) |
-
----
-
-<sub>Learning by building, testing, and contributing.</sub>
